@@ -15,4 +15,4 @@ in the next several days.
 With Fireca, you can cut down on the apps <br>and browser tabs you have, lowering the load on <br>your computer (and yourself).
 
 Here's what Fireca looks like right now (as of Sep 15, 2021):
-![Fireca Webtop](/assets/images/san-juan-mountains.jpg "Fireca Webtop")
+![Fireca Webtop](/fw.png "Fireca Webtop")

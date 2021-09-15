@@ -14,5 +14,5 @@ in the next several days.
 > Usually, if you have lots of browser tabs or apps <br>open, your computer will slow down, and it<br> might give you a headache just looking at your<br> screen. 
 With Fireca, you can cut down on the apps <br>and browser tabs you have, lowering the load on <br>your computer (and yourself).
 
-Here's what Fireca looks like right now (as of Sep 15, 2021):
+Here's what Fireca looks like right now (as of Sep 15, 2021):<br>
 ![Fireca Webtop](/fw.png "Fireca Webtop")
